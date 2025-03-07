@@ -1,7 +1,3 @@
-Got it! Here's a README file for your project:
-
----
-
 # VisionWardrobe - AI-Powered Wardrobe Assistant
 
 VisionWardrobe is a React Native mobile application that helps users choose the best outfits based on their height, size, and skin tone. It offers personalized clothing suggestions, including shirts, pants, shoes, and accessories, for different occasions.
@@ -59,8 +55,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 - React Native
-- Any third-party APIs or libraries used
-
----
-
-Let me know if you need any changes! 🚀
+- Any third-party APIs or libraries used (will update later)
